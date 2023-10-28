@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Playpen Sans', cursive;
+}
+.navbar a{
+    text-decoration: none;
+font-size: medium;
+font-family: 'Playpen Sans', cursive;
+color: orange;
+right: 40%;
+margin-left: 120px;
+
+}
+.logo{
+    margin-left: 30px  ;
+    padding-top: 10px;
+}
+nav a:hover {
+    color: white;
+    background-color: orange;
+}
+.image{
+    margin-top: 50px;
+}
+.second {
+    display: flex;
+/* background-color: aqua; */
+margin :10px 20px ;
+height: 500px;
+}
+.second section{
+    width: 600px;
+    margin: auto;
+    
+}
+.second button a{
+    text-decoration: none;
+    color: white;
+}
+.second button a:hover{
+    color: orange;
+}
+.second button{
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: medium;
+    font-family: 'Playpen Sans', cursive;
+    background-color: orange;
+    color: white;
+    border: rgb(216, 196, 196) solid 2px;
+
+}
+.second button:hover {
+    cursor: pointer;
+
+    background-color: aliceblue;
+}
+.class .img
+{
+  float: right;
+  padding: 40px;
+}
